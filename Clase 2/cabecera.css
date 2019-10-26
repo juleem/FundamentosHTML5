@@ -1,0 +1,6 @@
+header{display: block;   background-color:blue;}
+nav{display: block; background-color:grey;}
+nav li{display: inline-block; list-style:none;background-color:green;}
+			section{display: block; float:left;background-color:yellow; width: 80%}
+			aside{display: block; float:left;background-color:blue; width: 20%}
+			footer{display: block; clear:both;background-color:violet;}
