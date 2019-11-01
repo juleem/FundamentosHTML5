@@ -1,0 +1,64 @@
+<!-- Declaración del tipo de documento (DTP) -->
+<!DOCTYPE html>
+
+<!-- Apertura del elemento HTML -->
+<html>
+
+	<!-- Apertura del elemento HEAD -->
+	<head>		
+
+		<!-- Declaración del elemento META:Charset -->
+		<meta charset="utf-8">
+
+		<!-- Declaración del elemento TITLE -->	
+		<title> Formularios</title>
+
+	</head>
+	<!-- Cierre del elemento HEAD -->
+	
+	<!-- Apertura del elemento BODY -->
+	<body>
+
+		<!-- Declaracion del encabezado H1 -->
+		<h1> Mi Primer Formulario</h1>
+
+		<p>
+			
+			<!-- Apertura del FORMULARIO -->
+			<form action="recepcion.php">
+
+				
+				<!-- Declaracion del input TEXTO -->
+				<label>Nombre:</label>
+				<input type="text" name="Nombre" placeholder="Por Ejemplo, Julian" required>
+				
+				<br><br> 
+				
+				<!-- Declaracion del input EMAIL -->
+				<label>Email:</label>
+				<input type="email" name="email" placeholder="email@email.com" required>
+
+				<br><br> 
+				
+				<!-- Declaracion del input NUMBER -->
+				<label>Edad:</label>
+				<input type="number" name="edad" min="1" max="130">
+
+	
+
+				<hr>
+
+				<!-- Declaracion de los botones del formulario -->
+				<button type="submit">Confirmar</button>
+				<button type="reset">Resetear</button>
+
+			</form>
+			<!-- Cierre del FORMULARIO -->
+
+		</p>
+
+	</body>
+	<!-- Cierre del elemento BODY -->
+
+</html>
+<!-- Cierre del elemento HTML -->
