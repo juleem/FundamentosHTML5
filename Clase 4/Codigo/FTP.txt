@@ -1,0 +1,9 @@
+Conexion FTP 
+
+Servidor: ftp.fundamentoshtml5.ed.urltemporal.com 
+
+User: blhcpack@fundamentoshtml5.ed.urltemporal.com 
+
+Contrasena: +8Lo75@zrYKY7t 
+
+Port: 21 
