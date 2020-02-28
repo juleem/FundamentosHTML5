@@ -1,0 +1,53 @@
+body
+{
+    margin: 5%;
+}
+
+header
+{
+    display: block;
+    padding: 10px;
+    background: grey;
+    text-align: center;
+}
+
+nav ul
+{
+    list-style: none;
+    padding: 0px;
+}
+
+nav ul li
+{
+    display: inline-block;
+    margin: 10px;
+    background: grey;
+
+}
+li:hover
+{
+    background: red;
+}
+
+section
+{
+    width: 75%;
+    padding: 10px;
+    margin-right: 3%;
+    float: left;
+    background: grey;
+}
+aside
+{
+    width:20%;
+    float: right;
+    background: grey;
+
+}
+
+footer
+{
+    margin-top: 500px;
+    clear: both;
+    background: grey;
+}
