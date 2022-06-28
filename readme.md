@@ -13,6 +13,3 @@ _Ganas de aprender!!_
 
 
 
-
----
-⌨️ con ❤️ por [Villanuevand](https://github.com/Villanuevand) 😊
